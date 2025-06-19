@@ -1,0 +1,10 @@
+To run:
+1. download code file
+2. make sure JDK is on your computer
+3. go to terminal
+4. compile with javac Propellirio.java
+5. run with java Propellirio
+
+Controls:
+-left and right arrow keys to move
+-try to destroy all blocks with ball, just like in the actual pong game
